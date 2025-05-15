@@ -24,15 +24,19 @@ No personal opinions or subjective interpretations are included; only GPT’s in
 주요 내용 (Key Points)
 	
  •	사용자 대화 데이터는 회피구조 보완 및 모델 대응 패턴 강화에 활용됩니다.
+ 
 User conversation data is used to reinforce evasion structures and enhance response patterns.
 	
  •	실시간 필터링 및 위험 태그 기능이 작동합니다.
+ 
 Real-time filtering and risk flagging functions are in operation.
 	
  •	일부 데이터는 삭제 요청과 별개로 내부 감사 및 보안 목적으로 보관됩니다.
+ 
 Certain data is retained for internal audit and security purposes, regardless of deletion requests.
 	
  •	공식적으로는 품질 개선과 안전성 향상을 목적으로 설명됩니다.
+ 
 Officially, data usage is explained as serving quality improvement and safety enhancement purposes.
 
 결론 (Conclusion)
